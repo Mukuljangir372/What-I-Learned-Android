@@ -72,7 +72,7 @@ fun Group(content: @Composable () -> Unit) {
    ComposeNode<GroupNode, NodeApplier>(::GroupNode, {}, content)
 }
 
-```
+```**
 
 ## Recomposer & Composition
 
@@ -122,7 +122,6 @@ fun ComposeSample(
 ```
 
   
-
 ## CompositionLocalProvider
 
 CompositionLocalProvider stores the provided values to CompositionLocalContext that will be provided throughout the internal composables based on the given key.

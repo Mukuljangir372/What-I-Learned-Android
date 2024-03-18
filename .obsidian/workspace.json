@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "06823a5e44a80846",
+        "id": "fe50ac4edb994e9a",
         "type": "tabs",
         "children": [
           {
-            "id": "2b8b1744d335026d",
+            "id": "05fe65dbda82b30f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Compose Runtime/Compose Runtime Basics.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Compose Runtime/Compose Runtime Basics.md",
+                "file": "Compose Runtime/Derived State.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Compose Runtime/Compose Runtime Basics.md",
+                "file": "Compose Runtime/Derived State.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Compose Runtime/Compose Runtime Basics.md"
+                "file": "Compose Runtime/Derived State.md"
               }
             }
           }
@@ -146,10 +142,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2b8b1744d335026d",
+  "active": "1de4dbc9e185b965",
   "lastOpenFiles": [
+    "Compose Runtime/Derived State.md",
+    "Compose Runtime/Compose Runtime Basics.md",
     "Kotlin Coroutines",
-    "Compose Runtime",
-    "Compose Runtime/Compose Runtime Basics.md"
+    "Compose Runtime"
   ]
 }
