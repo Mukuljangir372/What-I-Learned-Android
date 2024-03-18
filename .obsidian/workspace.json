@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fe50ac4edb994e9a",
+        "id": "d279644bd68afbce",
         "type": "tabs",
         "children": [
           {
-            "id": "05fe65dbda82b30f",
+            "id": "69c68603176c0643",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -81,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Compose Runtime/Derived State.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Compose Runtime/Derived State.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Compose Runtime/Derived State.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -142,8 +138,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1de4dbc9e185b965",
+  "active": "69c68603176c0643",
   "lastOpenFiles": [
+    "Kotlin/Functional (SAM) Interface.md",
+    "Untitled.md",
+    "Kotlin",
+    "Kotlin Coroutines/Untitled.md",
     "Compose Runtime/Derived State.md",
     "Compose Runtime/Compose Runtime Basics.md",
     "Kotlin Coroutines",
